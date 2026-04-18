@@ -14,7 +14,7 @@ void setup() {
 
 void draw(){
   imagen(mural, 0 , 0, 400, 400);
-  
+}
 
 
 
