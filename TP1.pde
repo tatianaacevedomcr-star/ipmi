@@ -9,7 +9,7 @@ PImage mural;
 
 void setup() {
   size(800, 400);
-  mural = loadImage("");
+  mural = loadImage("muraldegato.jpg");
 }
 
 void draw(){
